@@ -1,0 +1,11 @@
+value,log_level
+"17/06/08 10:16:37 INFO storage.MemoryStore: Block rdd_876_29 stored as bytes in memory (estimated size 16.0 B, free 1540.4 KB)",INFO
+17/06/08 19:14:33 INFO executor.Executor: Finished task 38.0 in stage 2892.0 (TID 115754). 2087 bytes result sent to driver,INFO
+17/06/06 22:11:29 INFO executor.Executor: Finished task 32.0 in stage 118.0 (TID 4753). 2667 bytes result sent to driver,INFO
+17/06/09 21:38:52 INFO mapred.SparkHadoopMapRedUtil: attempt_201706092138_3812_m_000033_153798: Committed,INFO
+17/06/08 10:03:36 INFO storage.BlockManager: Found block rdd_263_35 locally,INFO
+17/06/08 21:47:22 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 747381,INFO
+17/06/08 20:05:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 350686,INFO
+"17/06/07 15:04:39 INFO python.PythonRunner: Times: total = 52, boot = -67, init = 118, finish = 1",INFO
+17/06/08 22:02:57 INFO storage.BlockManager: Removing RDD 24784,INFO
+17/06/09 11:27:22 INFO storage.BlockManager: Found block rdd_1700_21 locally,INFO

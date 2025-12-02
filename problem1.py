@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Problem 1: Log Level Distribution
-Analyzing the distribution of log levels (INFO, WARN, ERROR, DEBUG) across all log files. 
-The following will be used:  PySpark operations and simple aggregations.
+Problem 1: Log-Level Distribution
+Will Analyze the distribution of log levels from the data files. 
+PySpark operations & simple aggregations.
 """
 
 import logging
@@ -25,6 +25,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# Creating the spark sess 
 def create_spark_session():
     spark = (
         SparkSession.builder

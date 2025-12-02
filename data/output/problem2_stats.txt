@@ -1,0 +1,6 @@
+Total clusters = : 1
+Total Apps: 1
+Avg apps per cluster: 1.00
+
+Most active clusters:
+  Cluster  → 1 apps
