@@ -1,0 +1,8 @@
+Total log lines = : 33236605
+Total lines with the log levels = : 27410336
+The Unique log levels found: 3
+
+Log level distribution:
+  INFO :   27389482 (99.92%)
+  ERROR:      11259 (0.04%)
+  WARN :       9595 (0.04%)
